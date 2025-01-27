@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
++ [CRAN R package binaries for Linux - arm64 and Alpine Linux](https://www.devxy.io/blog/cran-r-package-binaries-launch/)
 
 ### New Packages
 
