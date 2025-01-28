@@ -106,6 +106,8 @@ This week’s release was curated by [Jon Calder](https://fosstodon.org/@jonmcal
 
 + [Just got a paper on conformal prediction REJECTED by International Journal of Forecasting despite evidence on 30,000 time series (and more). What’s going on? Part2: 1311 time series from the Tourism competition](https://thierrymoudiki.github.io/blog/2025/01/20/r/forecasting/python/misc/ijf-benchmark-rejection-pt2)
 
++ [Guide to comparing sample and population proportions with CPS data, both classically and Bayesianly](https://www.andrewheiss.com/blog/2025/01/27/ipums-cps-proportions-bayes/): Download CPS demographic data from IPUMS and use R and {brms} to calculate differences between sample and national proportions with Bayesian ROPE-based inference
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
