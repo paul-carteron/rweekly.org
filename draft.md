@@ -85,6 +85,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group):
+
+ - R Contributor Office Hours, Thursday February 6: [10:00-11:00 UTC](https://www.meetup.com/r-contributors/events/305790230/) or [09:30-11:00 PST](https://www.meetup.com/r-contributors/events/305506311/). R Core developer Martin Maechler will be joining the first office hour.
+
 ### Call for Participation
 
 ### Upcoming Events in 3 Months
