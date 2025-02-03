@@ -82,7 +82,7 @@ Transmission
 + [{report} 0.6.0](https://cran.r-project.org/package=report): Automated Reporting of Results and Statistical Models - [diffify](https://diffify.com/R/report)
 + [{tidyHeatmap} 1.11.4](https://cran.r-project.org/package=tidyHeatmap): A Tidy Implementation of Heatmap - [diffify](https://diffify.com/R/tidyHeatmap)
 + [{fusen} 0.7.1](https://cran.r-project.org/package=fusen): Build a Package from Rmarkdown Files - [diffify](https://diffify.com/R/fusen)
-
++ [{happign} 0.3.2](https://cran.r-project.org/package=happign): R Interface to French Geospatiale data from 'IGN' Web Services - [diffify](https://diffify.com/R/happign)
 
 ### Videos and Podcasts
 
